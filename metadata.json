@@ -1,0 +1,7 @@
+{
+  "name": "Neon Nocturne",
+  "description": "A high-end, futuristic restaurant management and dining application with a cinematic neon aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
